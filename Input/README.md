@@ -1,1 +1,1 @@
-Directory for input test files input files.
+Directory for input test files.
